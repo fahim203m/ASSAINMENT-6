@@ -12,7 +12,7 @@ const ProductCard = ({product,handleCart}) => {
     icon
   } = product
 
-  return (
+  return (  
     <div className="bg-white p-7 rounded-3xl shadow-sm">
 
       <div className="flex justify-between items-center">
