@@ -1,0 +1,46 @@
+[
+  {
+    "id":1,
+    "name":"CV Builder Pro",
+    "description":"Create ATS friendly resumes instantly.",
+    "price":19,
+    "period":"monthly",
+    "tagType":"Popular",
+    "features":[
+      "100+ Templates",
+      "PDF Export",
+      "ATS Optimization"
+    ],
+    "icon":"📄"
+  },
+
+  {
+    "id":2,
+    "name":"AI Content Suite",
+    "description":"Generate premium AI content fast.",
+    "price":29,
+    "period":"monthly",
+    "tagType":"New",
+    "features":[
+      "AI Writer",
+      "SEO Content",
+      "Blog Generator"
+    ],
+    "icon":"🤖"
+  },
+
+  {
+    "id":3,
+    "name":"Design Pack",
+    "description":"Premium templates and assets.",
+    "price":49,
+    "period":"yearly",
+    "tagType":"Best Seller",
+    "features":[
+      "500+ Assets",
+      "Figma Files",
+      "Icons Pack"
+    ],
+    "icon":"🎨"
+  }
+]
