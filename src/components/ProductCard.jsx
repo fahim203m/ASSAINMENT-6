@@ -65,6 +65,7 @@ const ProductCard = ({product,handleCart}) => {
       </button>
 
     </div>
+    
   )
 }
 
