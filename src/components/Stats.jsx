@@ -26,6 +26,9 @@ const Stats = () => {
         </div>
 
       </div>
+      <h1 className=" text-center mt-16 font-extrabold text-4xl ">Premium Digital Tools <br /></h1>
+      <p className="text-[#627382] text-center align-middle mt-6">Choose from our curated collection of  premium digital products designed <br />
+          to  boost your productivity and creativity.</p>
 
     </section>
   )

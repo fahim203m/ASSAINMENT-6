@@ -47,8 +47,10 @@ const Home = () => {
       <Banner />
 
       <Stats />
+       
 
       <section className="py-20">
+        
 
         <div className="container-custom">
 
@@ -77,6 +79,7 @@ const Home = () => {
             </button>
 
           </div>
+          <h2 className="text-center mt-12 mb-12 font-extrabold text-4xl ">Our Premium Products</h2>
 
           {
             showCart ? (
@@ -94,6 +97,7 @@ const Home = () => {
           }
 
         </div>
+       
         
 
       </section>

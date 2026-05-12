@@ -3,20 +3,20 @@ const Steps = () => {
   const steps = [
     {
       id:1,
-      title:"Choose Product",
-      desc:"Select your desired digital tool."
+      title:"Create Account",
+      desc:"Sign up for free in seconds. No credit card required to get started.."
     },
 
     {
       id:2,
-      title:"Add To Cart",
-      desc:"Add selected product into cart."
+      title:"Choose Products",
+      desc:"Browse our catalog and select the tools that fit your needs."
     },
 
     {
       id:3,
-      title:"Checkout",
-      desc:"Complete payment securely."
+      title:"Start Creating",
+      desc:"Download and start using your premium tools immediately.."
     }
   ]
 
@@ -28,11 +28,11 @@ const Steps = () => {
         <div className="text-center">
 
           <h1 className="text-5xl font-bold text-gray-800">
-            How It Works
+            Get Started in 3 Steps
           </h1>
 
           <p className="mt-5 text-gray-500 max-w-2xl mx-auto">
-            Buy your favorite digital tools in a few easy steps.
+            Start using premium digital tools in minutes, not hours.
           </p>
 
         </div>

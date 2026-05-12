@@ -13,18 +13,17 @@ const Banner = () => {
           </h1>
 
           <p className="mt-6 text-gray-500 leading-7">
-            Discover premium digital tools to improve productivity,
-            automation and workflow management.
+           Access premium AI tools, design assets, templates, and productivity software—all in one place. Start creating faster today..
           </p>
 
           <div className="flex gap-4 mt-8">
 
             <button className="bg-gradient-to-r from-purple-700 to-indigo-600 text-white px-7 py-3 rounded-full">
-              Get Started
+              Explore Products
             </button>
 
-            <button className="bg-gradient-to-r from-purple-700 to-indigo-600 text-white px-7 py-3 rounded-full">
-              Learn More
+            <button class="flex items-center gap-2 border-2 border-purple-400 text-purple-600 px-6 py-3 rounded-full font-medium hover:bg-purple-50 ">
+              Watch Demo
             </button>
 
           </div>

@@ -8,11 +8,11 @@ const Pricing = () => {
         <div className="text-center">
 
           <h1 className="text-5xl font-bold text-gray-800">
-            Pricing Plans
+           Simple, Transparent Pricing
           </h1>
 
           <p className="mt-5 text-gray-500">
-            Flexible pricing for everyone.
+           Choose the plan that fits your needs. Upgrade or downgrade anytime.
           </p>
 
         </div>

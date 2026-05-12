@@ -42,5 +42,50 @@
       "Icons Pack"
     ],
     "icon":"🎨"
+  },
+
+  {
+    "id":4,
+    "name":"SEO Toolkit",
+    "description":"Boost your website ranking easily.",
+    "price":25,
+    "period":"monthly",
+    "tagType":"Popular",
+    "features":[
+      "Keyword Research",
+      "SEO Audit",
+      "Backlink Checker"
+    ],
+    "icon":"📈"
+  },
+
+  {
+    "id":5,
+    "name":"Social Media Kit",
+    "description":"Manage all social platforms together.",
+    "price":35,
+    "period":"monthly",
+    "tagType":"Trending",
+    "features":[
+      "Post Scheduler",
+      "Analytics",
+      "Auto Reply"
+    ],
+    "icon":"📱"
+  },
+
+  {
+    "id":6,
+    "name":"Video Editing Suite",
+    "description":"Professional video editing tools.",
+    "price":59,
+    "period":"yearly",
+    "tagType":"Premium",
+    "features":[
+      "4K Export",
+      "Transitions",
+      "Motion Graphics"
+    ],
+    "icon":"🎬"
   }
 ]
